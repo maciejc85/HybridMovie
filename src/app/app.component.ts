@@ -26,7 +26,7 @@ export class MyApp {
 
     // set our app's pages
     this.pages = [
-      { title: 'Hybrid Movie', component: HelloIonicPage },
+      { title: 'Home', component: HelloIonicPage },
       { title: 'Items', component: ListPage }
     ];
   }
